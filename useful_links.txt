@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/1249388/how-do-we-remove-all-non-numeric-characters-from-a-string-in-python
+http://api.mongodb.org/python/current/examples/aggregation.html
+https://github.com/daviddrysdale/python-phonenumbers
+http://api.mongodb.org/python/current/examples/bulk.html

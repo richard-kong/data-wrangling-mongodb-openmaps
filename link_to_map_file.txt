@@ -1,1 +1,5 @@
-https://s3.amazonaws.com/metro-extracts.mapzen.com/brisbane_australia.osm.bz2
+File: https://s3.amazonaws.com/metro-extracts.mapzen.com/brisbane_australia.osm.bz2
+Map: https://www.openstreetmap.org/node/1546628274#map=11/-27.4693/153.0238
+
+Location:
+Brisbane, Queensland, Australia. The third largest city in Australia and the state capital of Queensland.I choose this area because I live in this city and I thought that local knowledge would be advantageous.
